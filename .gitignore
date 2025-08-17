@@ -2,3 +2,5 @@ Documents/*
 *.csv
 .vscode
 .DS_Store
+80g_repo
+*.pub
